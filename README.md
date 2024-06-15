@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PushkalMatcha
 - 👀 I’m interested in ai
-- 🌱 I’m currently learning dsa with python
 - 📫 How to reach me- matchapushkal@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ ig- @pushkalmatcah
