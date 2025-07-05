@@ -2,8 +2,7 @@
 - 👀 I’m interested in ai
 - 📫 How to reach me- matchapushkal@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ ig- @pushkalmatcah
-- 🐦 x-@MatchaPushkal
+  
 
 <!---
 PushkalMatcha/PushkalMatcha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
