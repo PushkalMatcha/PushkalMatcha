@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PushkalMatcha
 - 👀 I’m interested in ai
 - 📫 How to reach me- matchapushkal@gmail.com
-- 😄 Pronouns: he/him
+
   
 
 <!---
