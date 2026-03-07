@@ -1,5 +1,5 @@
 # Hi 👋, I'm Pushkal Matcha
-🚀 Software Developer | AI/ML | Web Development  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Engineer;Open+Source+Contributor)](https://git.io/typing-svg) 
 🎓 CSE Student at SRM Trichy  
 
 ---
@@ -33,7 +33,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-blue)
 ![Git](https://img.shields.io/badge/Git-orange)
 
----                                        [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Engineer;Open+Source+Contributor)](https://git.io/typing-svg)
+---                                        
 
 
 # 📊 GitHub Stats
