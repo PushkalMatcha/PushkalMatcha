@@ -7,8 +7,8 @@
 
 ## 📫 Contact Me
 
-📧 Email: pushkal@example.com  
-🔗 LinkedIn: https://linkedin.com/in/your-link  
+📧 Email: matchapushkal@gmail.com  
+🔗 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/pushkal-matcha-7b2910289/)  
 🌐 Portfolio: https://yourportfolio.com  
 
 ---
