@@ -1,4 +1,4 @@
-# Hi 👋, I'm Pushkal Matcha
+# Hi 👋, I'm Pushkal Matcha [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Engineer;Open+Source+Contributor)](https://git.io/typing-svg)
 
 🚀 Software Developer | AI/ML | Web Development  
 🎓 CSE Student at SRM Trichy  
@@ -44,4 +44,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PushkalMatcha&layout=compact&theme=radical)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Engineer;Open+Source+Contributor)](https://git.io/typing-svg)
+
