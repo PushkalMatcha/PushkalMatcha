@@ -45,4 +45,3 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PushkalMatcha&layout=compact&theme=radical)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PushkalMatcha&theme=github)
