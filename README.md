@@ -39,9 +39,9 @@
 
 # 📊 GitHub Stats
 
-![Pushkal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PushkalMatcha&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=PushkalMatcha&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PushkalMatcha&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PushkalMatcha&layout=compact&theme=radical)
+
 
