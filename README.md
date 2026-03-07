@@ -1,10 +1,45 @@
-- 👋 Hi, I’m @PushkalMatcha
-- 👀 I’m interested in ai
-- 📫 How to reach me- matchapushkal@gmail.com
+# Hi 👋, I'm Pushkal Matcha
 
-  
+🚀 Software Developer | AI/ML | Web Development  
+🎓 CSE Student at SRM Trichy  
 
-<!---
-PushkalMatcha/PushkalMatcha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> 
+---
+
+## 📫 Contact Me
+
+📧 Email: pushkal@example.com  
+🔗 LinkedIn: https://linkedin.com/in/your-link  
+🌐 Portfolio: https://yourportfolio.com  
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com)
+
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-orange?logo=stackoverflow)](https://stackoverflow.com)
+
+---
+
+# 💻 Tech Stack
+
+![C](https://img.shields.io/badge/C-blue)
+![C++](https://img.shields.io/badge/C++-blue)
+![JavaScript](https://img.shields.io/badge/Javascript-yellow)
+![React](https://img.shields.io/badge/React-blue)
+![Python](https://img.shields.io/badge/Python-green)
+![AWS](https://img.shields.io/badge/AWS-orange)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-orange)
+![Pytorch](https://img.shields.io/badge/Pytorch-red)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+![Git](https://img.shields.io/badge/Git-orange)
+
+---
+
+# 📊 GitHub Stats
+
+![Pushkal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PushkalMatcha&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PushkalMatcha&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PushkalMatcha&layout=compact&theme=radical)
