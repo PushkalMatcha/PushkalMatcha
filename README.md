@@ -1,5 +1,6 @@
 # Hi 👋, I'm Pushkal Matcha
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Engineer;Open+Source+Contributor)](https://git.io/typing-svg) 
+
 🎓 CSE Student at SRM Trichy  
 
 ---
