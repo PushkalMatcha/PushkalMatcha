@@ -43,3 +43,5 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PushkalMatcha&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PushkalMatcha&layout=compact&theme=radical)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+Engineer;Open+Source+Contributor)](https://git.io/typing-svg)
