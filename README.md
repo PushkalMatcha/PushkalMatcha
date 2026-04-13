@@ -1,23 +1,13 @@
 # Hi 👋, I'm Pushkal Matcha
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Cloud+Engineer;AI+Engineer;Open+Source+Contributor)](https://git.io/typing-svg) 
 
-🎓 CSE Student at SRM Trichy  
+
 
 ---
 
 ## 📫 Contact Me
 
 📧 Email: matchapushkal@gmail.com  
-🔗 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/pushkal-matcha-7b2910289/)  
-🌐 Portfolio: https://yourportfolio.com  
-
----
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com)
-
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-orange?logo=stackoverflow)](https://stackoverflow.com)
 
 ---
 
