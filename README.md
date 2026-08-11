@@ -29,12 +29,12 @@
 ┌──────────────────────────────────────────────────────────┐
 │                      PUSHKAL MATCHA                      │
 ├──────────────────────────────────────────────────────────┤
-│ AI Engineer                                               │
+│ AI Engineer                                              │
 │                                                          │
-│ AI / ML       → LLMs · Agents · Computer Vision         │
-│ Software      → APIs · Backend · Full Stack             │
-│ Infrastructure→ AWS · Docker · Linux · CI/CD            │
-│ Research      → Deep Learning · Vision Transformers     │
+│ AI / ML       → LLMs · Agents · Computer Vision          │
+│ Software      → APIs · Backend · Full Stack              │
+│ Infrastructure→ AWS · Docker · Linux · CI/CD             │
+│ Research      → Deep Learning · Vision Transformers      │
 └──────────────────────────────────────────────────────────┘
 ```
 
@@ -373,9 +373,9 @@ Contributing to technical initiatives, student projects and robotics-focused act
 │ → AI-powered Developer Tools             │
 │ → Backend & Distributed Systems          │
 │ → Cloud Architecture                     │
-│ → Computer Vision                         │
-│ → Data Structures & Algorithms            │
-│ → Open Source                             │
+│ → Computer Vision                        │
+│ → Data Structures & Algorithms           │
+│ → Open Source                            │
 └──────────────────────────────────────────┘
 ```
 
