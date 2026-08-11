@@ -1,67 +1,73 @@
 <div align="center">
 
-# Pushkal Matcha
+# PUSHKAL MATCHA
 
 ### Software Engineer · AI/ML · Cloud
 
-Building intelligent software systems that **ship, scale, and solve real problems.**
+**I build AI-native products, backend systems, and cloud infrastructure.**
 
-<p>
-  <a href="https://github.com/PushkalMatcha">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:matchapushkal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=PushkalMatcha&style=flat-square&color=blue" alt="Profile views"/>
-</p>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer;AI%2FML+Engineer;Cloud+%26+DevOps+Enthusiast;Building+AI-native+products;Open+Source+Contributor" alt="Typing introduction"/>
+<a href="https://github.com/PushkalMatcha">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:matchapushkal@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=PushkalMatcha&style=flat-square" alt="Profile Views"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineering;Full-Stack+Development;Backend+Systems;Cloud+%26+DevOps;Applied+Machine+Learning" alt="Typing introduction"/>
 
 </div>
 
 ---
 
-## `whoami`
+## `01 / ABOUT`
 
 ```text
 Pushkal Matcha
-├── Software Developer
-├── AI / ML Engineer
-├── Cloud & DevOps Enthusiast
-└── Open Source Contributor
+Software Engineer
+
+Focus
+├── AI-native applications
+├── Backend & distributed systems
+├── Cloud infrastructure
+└── Applied AI / Computer Vision
+
+Currently
+├── Building LLM-powered systems
+├── Exploring agentic workflows
+├── Learning deeper cloud architecture
+└── Contributing to open source
 ```
 
-I'm a Computer Science undergraduate at **SRM Institute of Science and Technology, Tiruchirappalli**, interested in building production-oriented software at the intersection of **AI, backend systems, cloud infrastructure, and developer tooling**.
+Computer Science undergraduate at **SRM Institute of Science and Technology, Tiruchirappalli**, interested in building software where **AI meets real-world engineering**.
 
-Currently exploring:
+I enjoy working across the stack — from designing APIs and asynchronous workers to deploying applications on AWS and experimenting with deep-learning models.
 
-* 🤖 Agentic AI, LLM APIs & AI-native applications
-* 🧠 Deep Learning, Computer Vision & Vision Transformers
-* ☁️ AWS, Docker, Linux & production deployments
-* ⚙️ Backend architecture, APIs & distributed workflows
-* 🧩 Data pipelines, automation & developer tools
-
-Previously, I worked as a **Software Developer Intern at Vadoo AI**, building interfaces and integrating image-generation APIs.
+Previously **Software Developer Intern @ Vadoo AI**, where I worked on **Muapi**, an image-generation API platform.
 
 ---
 
-## `what-i-build`
+## `02 / WHAT I BUILD`
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 AI Systems
+### 🤖 AI Engineering
 
-LLM-powered applications, autonomous agents, computer vision pipelines and AI-assisted developer tools.
+LLM applications, autonomous agents, AI-assisted developer tools, computer vision and deep learning.
 
 </td>
+
 <td width="50%">
 
-### 🌐 Full-Stack Products
+### ⚙️ Backend Systems
 
-Production-oriented web applications with modern frontend, backend, database and API architectures.
+REST APIs, asynchronous processing, queues, WebSockets, databases and service-oriented architectures.
 
 </td>
 </tr>
@@ -69,16 +75,17 @@ Production-oriented web applications with modern frontend, backend, database and
 <tr>
 <td width="50%">
 
-### ☁️ Cloud Infrastructure
+### ☁️ Cloud & DevOps
 
-Containerized applications, AWS deployments, reverse proxies, CI/CD and Linux-based environments.
+AWS deployments, Docker, Linux, Nginx, process management and CI/CD pipelines.
 
 </td>
+
 <td width="50%">
 
-### 📊 Data & Automation
+### 🧪 Applied Research
 
-Data validation, preprocessing, analytics pipelines and workflow automation.
+Computer vision experiments, model comparison, medical imaging and reproducible ML pipelines.
 
 </td>
 </tr>
@@ -86,69 +93,172 @@ Data validation, preprocessing, analytics pipelines and workflow automation.
 
 ---
 
-## `featured-work`
+# `03 / SELECTED WORK`
 
-### 🧪 AI Tester Agent
+## 🧪 AI Tester Agent — Bit-Lords
 
-**Autonomous LLM-powered QA system**
+**Autonomous QA system powered by LLMs**
 
-An AI-driven testing pipeline designed to automatically generate, execute and analyze software test cases.
+Turns user stories into executable test workflows and analyzes failures automatically.
 
-**Focus:** `LLMs` `Agents` `Automation` `QA`
+```text
+Jira Story
+    ↓
+LLM Test Generation
+    ↓
+Playwright Browser Execution
+    ↓
+Failure Detection
+    ↓
+AI Root-Cause Analysis
+    ↓
+Risk Scoring
+    ↓
+Regression Planning
+    ↓
+Reports
+```
+
+**Built with**
+
+`Python` `FastAPI` `React` `TypeScript` `Playwright` `Groq` `Supabase` `PostgreSQL`
+
+[View Repository →](../Bit-Lords)
 
 ---
 
-### 🧠 Maeven CRM
+## 🧹 Data-Saab
+
+**High-throughput CSV validation & processing engine**
+
+Designed to process large CSV datasets with a low-memory, event-driven architecture.
+
+### Highlights
+
+* Streaming file uploads
+* BullMQ job processing
+* Redis message broker
+* WebSocket telemetry
+* Worker heartbeat monitoring
+* Data validation & normalization
+* Automatic CSV partitioning
+* Real-time processing dashboard
+
+**Built with**
+
+`Next.js` `TypeScript` `Node.js` `Express` `BullMQ` `Redis` `WebSockets`
+
+[View Repository →](../Data-Saab)
+
+---
+
+## 🧠 Maeven CRM
 
 **AI-native retail analytics & campaign platform**
 
-A brand-agnostic CRM designed around conversational campaign creation, customer segmentation and AI-assisted marketing workflows.
+A multi-service CRM where customer analytics, natural-language segmentation and campaign execution come together in a single workflow.
 
-**Stack:** `Next.js` `FastAPI` `Supabase` `LLM APIs`
+```text
+Operator
+   ↓
+Next.js Interface
+   ↓
+FastAPI CRM API
+   ↓
+PostgreSQL / Supabase
+   ↓
+Async Campaign Dispatch
+   ↓
+Delivery Events
+   ↓
+Live Analytics
+```
 
----
+**Built with**
 
-### 🏥 Health Record System
+`Next.js` `FastAPI` `PostgreSQL` `Supabase` `AI/LLM APIs` `Async APIs`
 
-**Cloud-deployed healthcare backend**
-
-A production-oriented patient record system with API-driven architecture, database persistence and cloud deployment.
-
-**Stack:** `Node.js` `Express` `Prisma` `AWS` `PostgreSQL`
-
----
-
-### 🔬 CNN vs Vision Transformer
-
-**Medical image classification research**
-
-Comparative study evaluating **ResNet50** and **ViT-B/16** for lung/colon cancer image classification.
-
-**Focus:** `PyTorch` `CNNs` `ViTs` `Computer Vision`
-
----
-
-### 👶 Smart Baby Monitoring System
-
-**IoT + Computer Vision**
-
-An intelligent monitoring system combining infant-cry classification with real-time object detection.
-
-**Focus:** `IoT` `Computer Vision` `MobileNet` `Audio ML`
+[View Repository →](../Mini-CRM)
 
 ---
 
-### 🧹 Data-Saab
+## ☁️ Health Record System
 
-**Data validation & preprocessing engine**
+**Cloud-deployed healthcare management platform**
 
-A tool for validating and preprocessing CSV datasets before they enter downstream analytics or machine-learning workflows.
+A full-stack system featuring authentication, role-based access, REST APIs and cloud deployment.
 
-**Focus:** `Python` `Data Engineering` `Validation` `ETL`
+### Infrastructure
+
+```text
+GitHub
+   ↓
+GitHub Actions
+   ↓
+AWS EC2
+   ↓
+Nginx
+   ↓
+Frontend + Backend
+   ↓
+PostgreSQL / AWS RDS
+```
+
+**Built with**
+
+`Next.js` `Node.js` `Express` `Prisma` `PostgreSQL` `AWS EC2` `RDS` `Nginx` `PM2`
+
+[View Repository →](../Health-Record-System)
 
 ---
 
-## `tech-stack`
+## 🔬 CNN vs Vision Transformer
+
+**Histopathology image classification research**
+
+A comparative study evaluating **ResNet50 vs ViT-B/16** on lung and colon cancer histopathology images.
+
+| Model                  | Test Accuracy |   Macro F1 |
+| ---------------------- | ------------: | ---------: |
+| ResNet50               |        97.07% |     0.9699 |
+| ResNet50 + Macenko     |        96.53% |     0.9645 |
+| **ViT-B/16**           |    **97.36%** | **0.9729** |
+| **ViT-B/16 + Macenko** |    **97.36%** | **0.9729** |
+
+The experiments found that the Vision Transformer achieved the strongest performance, while stain normalization did not improve results on the evaluated dataset.
+
+**Built with**
+
+`Python` `PyTorch` `ResNet50` `ViT-B/16` `Computer Vision`
+
+[View Research →](../lung-colon-cancer-classification-cnn-vs-vit)
+
+---
+
+## 📊 TeamPulse
+
+**Engineering performance & productivity platform**
+
+A full-stack dashboard for engineering teams combining GitHub activity, sprint tracking, real-time updates and AI-assisted insights.
+
+**Highlights**
+
+* GitHub webhook integration
+* Sprint management
+* Real-time dashboard synchronization
+* AI-generated task insights
+* Productivity analytics
+* PDF reporting
+
+**Built with**
+
+`React` `Vite` `Node.js` `Express` `MongoDB` `Socket.IO` `Groq`
+
+[View Repository →](../Team-Performance-Productivity-Analyzer)
+
+---
+
+# `04 / ENGINEERING STACK`
 
 ### Languages
 
@@ -161,7 +271,7 @@ A tool for validating and preprocessing CSV datasets before they enter downstrea
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
-### Frontend & Backend
+### Full Stack
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
@@ -189,64 +299,43 @@ A tool for validating and preprocessing CSV datasets before they enter downstrea
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 </p>
 
-### Databases & Infrastructure
+### Data / Infrastructure
 
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
 </p>
 
 ---
 
-## `engineering-focus`
-
-```text
-AI Engineering
-    ├── LLM Applications
-    ├── Agentic Workflows
-    ├── Computer Vision
-    └── Deep Learning
-
-Software Engineering
-    ├── REST APIs
-    ├── Backend Systems
-    ├── Full-Stack Applications
-    └── Database Design
-
-Cloud & DevOps
-    ├── AWS
-    ├── Docker
-    ├── Linux
-    ├── Nginx
-    └── CI/CD
-```
-
----
-
-## `experience`
+# `05 / EXPERIENCE`
 
 ### Vadoo AI
 
 **Software Developer Intern · Jun 2025 — Jul 2025**
 
-Worked on **Muapi**, an image-generation API platform, building a mobile-friendly web interface and integrating image-generation APIs into the product experience.
+Worked on **Muapi**, an image-generation API platform.
+
+* Built a responsive web interface for the product
+* Integrated image-generation APIs
+* Worked across frontend and API integration layers
+* Focused on creating a usable experience around AI generation workflows
 
 ---
 
-## `leadership`
+# `06 / LEADERSHIP`
 
 ### Robothinkers Robotics Club
 
 **Secretary**
 
-Contributing to technical initiatives, student projects and robotics-focused activities within the organization.
+Contributing to technical initiatives, student projects and robotics-focused activities.
 
 ---
 
-## `certifications`
+# `07 / CERTIFICATION`
 
 <p>
 <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner"/>
@@ -254,50 +343,49 @@ Contributing to technical initiatives, student projects and robotics-focused act
 
 ---
 
-## `github-activity`
+# `08 / CURRENTLY`
+
+```text
+→ Building        AI-native developer tools
+→ Learning        Cloud architecture & distributed systems
+→ Exploring       Agentic workflows & LLM applications
+→ Researching     Computer Vision & Vision Transformers
+→ Practicing      Data Structures & Algorithms
+→ Contributing    Open Source
+```
+
+---
+
+# `09 / GITHUB`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PushkalMatcha&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="165" alt="Pushkal's GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PushkalMatcha&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="165" alt="GitHub statistics"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PushkalMatcha&hide_border=true&theme=transparent" height="165" alt="Pushkal's GitHub contribution streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PushkalMatcha&hide_border=true&theme=transparent" height="165" alt="GitHub contribution streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PushkalMatcha&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="165" alt="Pushkal's most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PushkalMatcha&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="165" alt="Most used programming languages"/>
 
 </div>
 
 ---
 
-## `beyond-code`
-
-* 🧩 100+ DSA problems solved across competitive programming platforms
-* 🌱 Exploring and contributing to open source
-* 🤖 Interested in AI agents and intelligent developer tooling
-* ☁️ Building deeper expertise in cloud engineering and distributed systems
-* 🔬 Interested in applied AI research that can translate into real products
-
----
-
-## `connect`
+# `10 / CONNECT`
 
 <div align="center">
 
 <a href="mailto:matchapushkal@gmail.com">
-  <img src="https://img.shields.io/badge/Email-matchapushkal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Let's_Talk-matchapushkal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Pushkal"/>
 </a>
 
 <a href="https://github.com/PushkalMatcha">
-  <img src="https://img.shields.io/badge/GitHub-PushkalMatcha-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Follow-PushkalMatcha-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-> **Build useful things. Understand how they work. Ship them.**
+**Build → Learn → Ship → Repeat**
 
 </div>
