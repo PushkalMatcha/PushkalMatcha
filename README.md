@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Pushkal Matcha 👋</h1>
 
-<h3 align="center">Software Developer | AI/ML Engineer | Cloud Enthusiast</h3>
+<h3 align="center">Software Developer | AI Engineer | Cloud Enthusiast</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
