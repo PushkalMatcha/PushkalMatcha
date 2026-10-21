@@ -2,71 +2,118 @@
 
 # PUSHKAL MATCHA
 
-### AI Engineer | Agentic AI | Backend Systems
+### AI ENGINEER · AGENTIC AI · BACKEND SYSTEMS
 
-Building intelligent AI systems, autonomous workflows, and production-ready applications.
+Building intelligent agents and production-ready AI applications.
 
-<a href="https://github.com/PushkalMatcha">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="mailto:matchapushkal@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+<a href="mailto:matchapushkal@gmail.com">Email</a> ·
+<a href="https://github.com/PushkalMatcha">GitHub</a>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+Systems;LLMs+%7C+RAG+%7C+AI+Automation;Python+%7C+FastAPI+%7C+Cloud;From+AI+Prototype+to+Production" alt="Typing introduction">
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Engineering+Agentic+AI+Systems;LLMs+%7C+RAG+%7C+AI+Automation;Python+%7C+FastAPI+%7C+Cloud;From+Prototype+to+Production" alt="AI engineering focus">
 
 </div>
 
 ---
 
-### About Me
+### `$ whoami`
 
-I'm a Computer Science undergraduate at **SRM IST, Tiruchirappalli**, currently working as an **FDE Apprentice at Photon, Bengaluru**, focusing on backend engineering and agentic AI.
+AI-focused software engineer and **FDE Apprentice at Photon, Bengaluru**, working on backend systems and agentic AI tasks.
 
-- 🤖 **AI Engineering:** LLMs, agent workflows, RAG, prompt engineering
+- 🤖 **AI:** LLMs, agent workflows, RAG, prompt engineering
 - ⚙️ **Backend:** Python, FastAPI, Node.js, REST APIs
 - ☁️ **Cloud:** AWS, Docker, Linux, CI/CD
-- 🧠 **ML Research:** Deep Learning, Computer Vision, Vision Transformers
+- 🧠 **Research:** Deep Learning, Computer Vision, Vision Transformers
 - 🎓 **Certification:** AWS Certified Cloud Practitioner
 
-### Featured Projects
+### `$ ls ./projects`
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| [Post-Trade Intelligence](https://github.com/PushkalMatcha) | ML-powered anomaly detection and agentic investigation | Python, LangGraph, FastAPI, PostgreSQL |
-| [AI Tester Agent](https://github.com/PushkalMatcha/Bit-Lords) | LLM-assisted autonomous browser testing | FastAPI, Playwright, React, TypeScript |
-| [Data-Saab](https://github.com/PushkalMatcha/Data-Saab) | Asynchronous data processing and validation | Node.js, Redis, BullMQ, TypeScript |
-| [Maeven CRM](https://github.com/PushkalMatcha/Mini-CRM) | AI-powered customer intelligence and segmentation | Next.js, FastAPI, PostgreSQL |
-| [CNN vs Vision Transformer](https://github.com/PushkalMatcha/lung-colon-cancer-classification-cnn-vs-vit) | Histopathology classification research; ViT-B/16 achieved 97.36% accuracy | PyTorch, ResNet50, ViT-B/16 |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Tech Stack
+**01. Post-Trade Intelligence**
 
-**AI & ML**
+ML-powered anomaly detection with agentic investigation.
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI and ML technologies">
+`Python` `LangGraph` `FastAPI` `PostgreSQL`
 
-**Backend & Frontend**
+</td>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,typescript,react,nextjs" alt="Backend and frontend technologies">
+**02. AI Tester Agent**
 
-**Cloud & Databases**
+LLM-assisted browser testing and failure analysis.
 
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,postgres,mongodb,redis" alt="Cloud and database technologies">
+`FastAPI` `Playwright` `React` `TypeScript`
 
-### Experience
+<a href="https://github.com/PushkalMatcha/Bit-Lords">↗ Source code</a>
 
-- **FDE Apprentice — Photon** · Bengaluru · 2026–Present
-- **Software Developer Intern — Vadoo AI** · June–July 2025
-- **Secretary — Robothinkers Robotics Club**, SRM IST
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03. Data-Saab**
+
+Asynchronous data processing with real-time updates.
+
+`Node.js` `Redis` `BullMQ` `TypeScript`
+
+<a href="https://github.com/PushkalMatcha/Data-Saab">↗ Source code</a>
+
+</td>
+<td width="50%" valign="top">
+
+**04. Maeven CRM**
+
+AI-powered customer intelligence and segmentation.
+
+`Next.js` `FastAPI` `PostgreSQL` `LLM APIs`
+
+<a href="https://github.com/PushkalMatcha/Mini-CRM">↗ Source code</a>
+
+</td>
+</tr>
+</table>
+
+**Research:** [CNN vs Vision Transformer](https://github.com/PushkalMatcha/lung-colon-cancer-classification-cnn-vs-vit) — ViT-B/16 achieved **97.36% accuracy** in histopathology image classification.
+
+### `$ tech --stack`
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,fastapi,nodejs,react,nextjs,postgres,mongodb,redis,aws,docker,linux&theme=dark" alt="Technical skills">
+</p>
+
+### `$ experience --list`
+
+**Photon** · FDE Apprentice  
+*2026 – Present · Bengaluru*  
+Backend engineering and agentic AI workflows.
+
+**Vadoo AI** · Software Developer Intern  
+*June – July 2025*  
+Developed a responsive web interface and integrated generative AI APIs.
+
+### `$ education`
+
+**B.Tech — Computer Science and Engineering**  
+SRM Institute of Science and Technology, Tiruchirappalli  
+CGPA: **8.61/10** · Graduation: **2027**
+
+**Certification:** AWS Certified Cloud Practitioner
 
 ---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PushkalMatcha&show_icons=true&hide_border=true&theme=transparent" height="150" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=PushkalMatcha&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="150" alt="GitHub stats">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PushkalMatcha&layout=compact&hide_border=true&theme=transparent&langs_count=6" height="150" alt="Top languages">
 
-**Building intelligent systems. Shipping production-ready AI.**
+<br>
+
+**Build intelligently. Engineer reliably. Ship continuously.**
 
 </div>
